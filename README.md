@@ -1,2 +1,2 @@
-# DL4NLP_Cheat_Sheet_TUD
+# Deep Learning for Natural Language Processing Cheat Sheet
 Cheat sheet for the lecture Deep Learning for Natural Language Processing at TU Darmstadt
