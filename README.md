@@ -5,7 +5,7 @@ If you find any errors or you want to add something, feel free to raise an issue
 
 # References
 
-Additional references
+Additional references of figures and content.
 
 ```bibtex
 @inproceedings{Vaswani2017,
